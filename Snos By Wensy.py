@@ -298,3 +298,4 @@ if password == "WensySnos":
         print_colored_text("В разработке...", "red")
 else:
     print("Неверный пароль. Доступ запрещен.")
+“WensySnos”
